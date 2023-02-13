@@ -2,9 +2,11 @@
 
 ## Description
 
-This software is for tinySA-ULTRA
-
 You can see the radio strength in AR(Augmented Reality).
+
+This software is using the tinySA-ULTRA as measurement device.
+
+I am grateful to be able to purchase a spectrum analyzer at a reasonable price.
 
 This is free software, please use it at your own risk.
 
@@ -22,13 +24,13 @@ https://youtu.be/J-cCwv5PNz8
 
 ![1](https://user-images.githubusercontent.com/83148498/218467041-c7820c92-1248-4685-b66c-b35bec0bfba0.png)
 
-### A smartphone that supports ARCORE.
+### A android smartphone that supports ARCORE.
 
 You can check this web site.
 
 https://developers.google.com/ar/devices
 
-(FYI) I checked to work with the following devices.
+I confirmed to work this app the following devices.
 
 SONY SOV38
 
@@ -38,7 +40,9 @@ SHARP AQUOS sense6
 
 There are two versions of tinySA, Normal and Ultra.
 
-I use the tinySA Ultra. So I'm not sure if it works with normal tinySA. 
+I have used the tinySA Ultra. So I'm not sure if it works with normal tinySA.
+
+But the command seems to be the same on both devices. I think it will work.
   
 ### OTG USB cable
 
@@ -57,7 +61,7 @@ https://nomad-saving.com/wp-content/uploads/2016/03/NASA5-1-768x512.jpg
 #### Install RadioFieldAR
 I'm sorry this app can't be installed from the google play store.
 
-You can install using APK file on the github.
+You can install using APK file on this page.
 
 Please refer to these web site for details.
 
@@ -76,7 +80,7 @@ After a while, the camera screen will appear.
 
 ![start](https://user-images.githubusercontent.com/83148498/218464237-f14fa3cc-c659-4a06-a4ca-34d0c209f5de.png)
 
-First, it is necessary to aim the camera slowly around the measurement object for the app recognize the surrounding environment.
+It is necessary to aim the camera slowly around the measurement object for the app recognize the surrounding environment.
 
 [important]
 ARCore requires visual information from the camera to build an environmental understanding. 
@@ -86,8 +90,7 @@ Avoid extended periods of rapid movement, which can cause ARCore to lose trackin
 
 https://developers.google.com/ar/develop/runtime
 
-
-Basically you need to set up several setting to tinySA. This app is just getting marker data from it.
+Basically you need to set several setting to tinySA. This app is just getting marker data from it.
 
 ![tinySA](https://user-images.githubusercontent.com/83148498/218465991-3579383c-a6ac-4fd7-9f6b-f363d9a33b1d.png)
 
