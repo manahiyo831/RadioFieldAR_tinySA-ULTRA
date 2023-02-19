@@ -92,6 +92,8 @@ https://developers.google.com/ar/develop/runtime
 
 Basically you need to set several setting to tinySA. This app is just getting marker data from it.
 
+Measurement speed depends on tinySA settings.
+
 ![tinySA](https://user-images.githubusercontent.com/83148498/218465991-3579383c-a6ac-4fd7-9f6b-f363d9a33b1d.png)
 
 The size and grid value can be changed on the app.
