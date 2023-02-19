@@ -90,7 +90,7 @@ Avoid extended periods of rapid movement, which can cause ARCore to lose trackin
 
 https://developers.google.com/ar/develop/runtime
 
-Basically you need to set several setting to tinySA. This app is just getting marker data from it.
+Basically you need to set several setting to tinySA. This app is only getting peek marker data from it.
 
 Measurement speed depends on tinySA settings.
 
