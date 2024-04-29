@@ -1,5 +1,10 @@
 # RadioFieldAR_tinySA-ULTRA
 
+## Notice
+
+It doesn't seem to work with some language settings, such as French. 
+I will fix it soon, so please set it to English until then.
+
 ## Description
 
 You can see the radio strength in AR(Augmented Reality).
