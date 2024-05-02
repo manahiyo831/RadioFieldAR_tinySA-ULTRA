@@ -1,9 +1,9 @@
 # RadioFieldAR_tinySA-ULTRA
 
-## Notice
-
-It doesn't seem to work with some language settings, such as French. 
-I will fix it soon, so please set it to English until then.
+## UPDATE 2024.5.3
+- Fixed an issue where it wouldn't work with some language settings.
+- Display method can be selected from FOG or sphere
+- Added button to save measurement data to file
 
 ## Description
 
